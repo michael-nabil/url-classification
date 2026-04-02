@@ -1,0 +1,10 @@
+The project idea:
+classifying URLs if the URL is malicious(dangerous) or safe to browse,
+
+The requirements:
+1-searching for a dataset that has URLs and annotated as malicious or safe, for training the model,
+2-make data visualization for better view and understanding of the data,
+3-train a machine learning model, reaching accuracy greater or equals 85%
+
+Deliverables:
+4-deliver a python notebook, containing the previous requirements and save the model to be easily used after that.
